@@ -4,6 +4,9 @@
 
 This project is a Named Entity Recognition (NER) application built using Streamlit and spaCy. It allows users to input text and automatically identifies and categorizes named entities, such as organizations, locations, dates, monetary values, and more. The app provides a user-friendly interface for analyzing text and visualizing recognized entities.
 
+#Model Acess Link
+https://krishnamishra8848-named-entity-recognition-app-q1mkyc.streamlit.app/
+
 ## Features
 
 - Input text area for users to enter any content.
